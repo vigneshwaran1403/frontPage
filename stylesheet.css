@@ -83,7 +83,6 @@ a:active{
         position: relative;
     }
     #form{
-       margin: auto;
-       padding: auto;
+       position:relative;
     }
 }
